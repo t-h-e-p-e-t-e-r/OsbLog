@@ -1,0 +1,340 @@
+07:27:04.030: CoInitializeEx succeeded: 0x00000001
+07:27:04.030: CPU Name: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+07:27:04.030: CPU Speed: 3192MHz
+07:27:04.030: Physical Cores: 6, Logical Cores: 12
+07:27:04.030: Physical Memory: 32706MB Total, 20085MB Free
+07:27:04.030: Windows Version: 10.0 Build 18363 (release: 1909; revision: 720; 64-bit)
+07:27:04.030: Running as administrator: false
+07:27:04.030: Aero is Enabled (Aero is always on for windows 8 and above)
+07:27:04.030: Windows 10 Gaming Features:
+07:27:04.030: 	Game DVR: On
+07:27:04.031: Sec. Software Status:
+07:27:04.032: 	Windows Defender Antivirus: enabled (AV)
+07:27:04.045: 	Windows Firewall: enabled (FW)
+07:27:04.046: Current Date/Time: 2020-03-29, 07:27:04
+07:27:04.046: Browser Hardware Acceleration: true
+07:27:04.046: Portable mode: false
+07:27:04.387: OBS 25.0.1 (64-bit, windows)
+07:27:04.387: ---------------------------------
+07:27:04.388: ---------------------------------
+07:27:04.388: audio settings reset:
+07:27:04.388: 	samples per sec: 44100
+07:27:04.388: 	speakers:        2
+07:27:04.389: ---------------------------------
+07:27:04.389: Initializing D3D11...
+07:27:04.389: Available Video Adapters: 
+07:27:04.390: 	Adapter 0: NVIDIA GeForce GTX 1070
+07:27:04.390: 	  Dedicated VRAM: 4185915392
+07:27:04.390: 	  Shared VRAM:    4262647808
+07:27:04.391: 	  Driver Version: 26.21.14.4166
+07:27:04.391: 	  output 0: pos={0, 0}, size={1920, 1080}, attached=true, refresh=60, name=SL27T-1 LED
+07:27:04.391: 	  output 1: pos={-1280, -84}, size={1280, 1024}, attached=true, refresh=60, name=919
+07:27:04.391: 	  output 2: pos={1920, 0}, size={1920, 1080}, attached=true, refresh=60, name=Philips 235PL
+07:27:04.392: Loading up D3D11 on adapter NVIDIA GeForce GTX 1070 (0)
+07:27:04.428: D3D11 loaded successfully, feature level used: b000
+07:27:04.428: DXGI increase maximum frame latency success
+07:27:04.428: D3D11 GPU priority setup failed (not admin?)
+07:27:04.767: ---------------------------------
+07:27:04.767: video settings reset:
+07:27:04.767: 	base resolution:   1280x720
+07:27:04.767: 	output resolution: 1280x720
+07:27:04.767: 	downscale filter:  Bicubic
+07:27:04.767: 	fps:               25/1
+07:27:04.767: 	format:            NV12
+07:27:04.767: 	YUV mode:          601/Partial
+07:27:04.767: NV12 texture support enabled
+07:27:04.768: Audio monitoring device:
+07:27:04.768: 	name: Default
+07:27:04.768: 	id: default
+07:27:04.769: ---------------------------------
+07:27:04.770: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+07:27:04.771: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+07:27:04.794: [AMF] Unable to load 'amfrt64.dll', error code 126.
+07:27:04.796: [AMF] AMF Test failed due to one or more errors.
+07:27:04.796: Failed to initialize module 'enc-amf.dll'
+07:27:04.808: [obs-browser]: Version 2.8.6
+07:27:04.810: NVENC supported
+07:27:04.900: [obs-websocket] you can haz websockets (version 4.7.0)
+07:27:04.900: [obs-websocket] qt version (compile-time): 5.10.1 ; qt version (run-time): 5.10.1
+07:27:04.901: [obs-websocket] module loaded!
+07:27:04.904: VLC found, VLC video source enabled
+07:27:04.908: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+07:27:04.909: No blackmagic support
+07:27:04.911: ---------------------------------
+07:27:04.911:   Loaded Modules:
+07:27:04.911:     win-wasapi.dll
+07:27:04.911:     win-mf.dll
+07:27:04.911:     win-dshow.dll
+07:27:04.911:     win-decklink.dll
+07:27:04.911:     win-capture.dll
+07:27:04.911:     vlc-video.dll
+07:27:04.911:     text-freetype2.dll
+07:27:04.911:     rtmp-services.dll
+07:27:04.911:     obs-x264.dll
+07:27:04.911:     obs-websocket.dll
+07:27:04.911:     obs-vst.dll
+07:27:04.911:     obs-transitions.dll
+07:27:04.911:     obs-text.dll
+07:27:04.911:     obs-qsv11.dll
+07:27:04.911:     obs-outputs.dll
+07:27:04.911:     obs-filters.dll
+07:27:04.911:     obs-ffmpeg.dll
+07:27:04.911:     obs-browser.dll
+07:27:04.911:     image-source.dll
+07:27:04.911:     frontend-tools.dll
+07:27:04.911:     enc-amf.dll
+07:27:04.911:     decklink-ouput-ui.dll
+07:27:04.911:     coreaudio-encoder.dll
+07:27:04.911: ---------------------------------
+07:27:04.911: ==== Startup complete ===============================================
+07:27:04.913: All scene data cleared
+07:27:04.913: ------------------------------------------------
+07:27:04.941: WASAPI: Device 'Speakers (Realtek(R) Audio)' [48000 Hz] initialized
+07:27:04.972: [Media Source 'Media Source']: settings:
+07:27:04.972: 	input:                   D:/intro.mp4
+07:27:04.972: 	input_format:            (null)
+07:27:04.972: 	speed:                   100
+07:27:04.972: 	is_looping:              no
+07:27:04.972: 	is_hw_decoding:          no
+07:27:04.972: 	is_clear_on_media_end:   yes
+07:27:04.972: 	restart_on_activate:     yes
+07:27:04.972: 	close_when_inactive:     no
+07:27:05.209: Switched to scene '2'
+07:27:05.209: ------------------------------------------------
+07:27:05.209: Loaded scenes:
+07:27:05.209: - scene 'Monitor2':
+07:27:05.209:     - source: 'Display Capture' (monitor_capture)
+07:27:05.209: - scene '2':
+07:27:05.209:     - source: 'mic' (vlc_source)
+07:27:05.209:     - source: 'camera1' (vlc_source)
+07:27:05.209:     - source: 'Logo' (image_source)
+07:27:05.209:     - source: 'sideview' (image_source)
+07:27:05.209: - scene 'Intro':
+07:27:05.209:     - source: 'Media Source' (ffmpeg_source)
+07:27:05.209:     - source: 'Logo' (image_source)
+07:27:05.209: - scene 'Outro':
+07:27:05.209:     - source: 'Image' (image_source)
+07:27:05.209: - scene 'Nothing':
+07:27:05.209:     - source: 'nothing text' (text_gdiplus_v2)
+07:27:05.209:     - source: 'text2' (text_gdiplus_v2)
+07:27:05.209:     - source: 'text3' (text_gdiplus_v2)
+07:27:05.209: - scene '1':
+07:27:05.209:     - source: 'mic' (vlc_source)
+07:27:05.209:     - source: 'camera2' (vlc_source)
+07:27:05.209:     - source: 'Logo' (image_source)
+07:27:05.209: - scene 'Monitor 3':
+07:27:05.209:     - source: 'Display Capture 2' (monitor_capture)
+07:27:05.209: ------------------------------------------------
+07:27:05.344: Switched to Preview/Program mode
+07:27:05.344: ------------------------------------------------
+07:27:05.345: [obs-websocket] server started successfully on port 4444
+07:27:05.345: [obs-websocket] io thread started
+07:27:11.774: User switched to scene '1'
+07:27:11.809: A sprite cannot be drawn without a width/height
+07:27:11.849: A sprite cannot be drawn without a width/height
+07:27:14.378: User switched to scene '2'
+07:29:18.028: adding 92 milliseconds of audio buffering, total audio buffering is now 92 milliseconds (source: mic)
+07:29:18.028: 
+08:30:59.886: User switched to scene 'Monitor 3'
+08:31:06.102: User switched to scene 'Nothing'
+08:31:12.166: User switched to scene 'Monitor 3'
+08:31:14.568: User added source 'next' (text_gdiplus_v2) to scene 'Monitor 3'
+08:32:36.440: User switched to scene '2'
+08:32:54.109: Source '2' renamed to 'Centralview'
+08:32:56.150: User switched to scene '1'
+08:33:05.687: Source '1' renamed to 'side'
+08:33:08.743: User switched to scene 'Monitor 3'
+08:33:11.118: User switched to scene 'Intro'
+08:33:12.302: User switched to scene 'Outro'
+08:33:13.350: User switched to scene 'Monitor 3'
+08:33:24.582: Source 'Monitor 3' renamed to '3'
+08:33:28.438: User switched to scene 'Nothing'
+08:33:30.014: User switched to scene '3'
+08:33:32.062: User switched to scene 'Intro'
+08:33:37.182: User switched to scene 'Monitor2'
+08:33:39.223: User switched to scene 'Centralview'
+08:33:42.382: User switched to scene 'Monitor2'
+08:33:43.470: User switched to scene 'Nothing'
+08:33:47.638: User switched to scene 'Outro'
+08:33:48.910: User switched to scene 'side'
+08:33:49.638: User switched to scene 'Centralview'
+08:33:50.254: User switched to scene 'Intro'
+08:33:52.054: User switched to scene '3'
+08:33:53.254: User switched to scene 'Intro'
+08:33:55.398: User switched to scene 'Centralview'
+08:33:56.614: User switched to scene '3'
+08:34:00.734: User switched to scene 'Intro'
+08:34:01.758: User switched to scene 'Centralview'
+08:34:03.630: User switched to scene 'side'
+08:34:04.766: User switched to scene 'Centralview'
+08:34:08.070: User switched to scene '3'
+08:34:46.174: User switched to scene 'Centralview'
+08:34:50.126: User switched to scene 'Intro'
+08:58:21.571: [jim-nvenc: 'simple_h264_stream'] settings:
+08:58:21.571: 	rate_control: CBR
+08:58:21.571: 	bitrate:      6000
+08:58:21.571: 	cqp:          20
+08:58:21.571: 	keyint:       250
+08:58:21.571: 	preset:       hq
+08:58:21.571: 	profile:      high
+08:58:21.571: 	width:        1280
+08:58:21.571: 	height:       720
+08:58:21.571: 	2-pass:       false
+08:58:21.571: 	b-frames:     2
+08:58:21.571: 	lookahead:    false
+08:58:21.571: 	psycho_aq:    true
+08:58:21.571: 
+08:58:21.583: ---------------------------------
+08:58:21.583: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: 3
+08:58:21.583: 
+08:58:21.584: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://localhost:1935/live...
+08:58:21.585: [rtmp stream: 'simple_stream'] Interface: Software Loopback Interface 1 (type 24, 1073 mbps)
+08:58:21.587: [rtmp stream: 'simple_stream'] Connection to rtmp://localhost:1935/live successful
+08:58:21.608: ==== Streaming Start ===============================================
+08:58:43.570: [rtmp stream: 'simple_stream'] User stopped the stream
+08:58:43.570: Output 'simple_stream': stopping
+08:58:43.570: Output 'simple_stream': Total frames output: 541
+08:58:43.570: Output 'simple_stream': Total drawn frames: 550
+08:58:43.573: ==== Streaming Stop ================================================
+08:59:10.559: Settings changed (stream 1)
+08:59:10.559: ------------------------------------------------
+08:59:13.731: [jim-nvenc: 'simple_h264_stream'] settings:
+08:59:13.731: 	rate_control: CBR
+08:59:13.731: 	bitrate:      6000
+08:59:13.731: 	cqp:          20
+08:59:13.731: 	keyint:       50
+08:59:13.731: 	preset:       hq
+08:59:13.731: 	profile:      high
+08:59:13.731: 	width:        1280
+08:59:13.731: 	height:       720
+08:59:13.731: 	2-pass:       false
+08:59:13.731: 	b-frames:     2
+08:59:13.731: 	lookahead:    false
+08:59:13.731: 	psycho_aq:    true
+08:59:13.731: 
+08:59:13.739: ---------------------------------
+08:59:13.739: [FFmpeg aac encoder: 'simple_aac'] bitrate: 128, channels: 2, channel_layout: 3
+08:59:13.739: 
+08:59:13.740: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://rtmp-api.facebook.com:443/rtmp/...
+08:59:13.791: [rtmp stream: 'simple_stream'] Interface: Intel(R) Ethernet Connection (7) I219-V (ethernet, 1000 mbps)
+08:59:14.562: [rtmp stream: 'simple_stream'] Connection to rtmps://rtmp-api.facebook.com:443/rtmp/ successful
+08:59:14.566: ==== Streaming Start ===============================================
+09:00:04.703: User switched to scene 'side'
+09:00:07.358: User switched to scene 'Centralview'
+09:03:35.350: User switched to scene 'side'
+09:03:44.699: User added scene 'sideview'
+09:03:44.700: User switched to scene 'sideview'
+09:03:49.463: User switched to scene 'side'
+09:03:58.951: User switched to scene 'sideview'
+09:04:01.312: User added source 'camera2' (vlc_source) to scene 'sideview'
+09:04:15.440: User added source 'sideview-cierne' (image_source) to scene 'sideview'
+09:12:03.481: User switched to scene 'Intro'
+09:12:37.080: User switched to scene '3'
+09:12:42.935: User switched to scene 'Nothing'
+09:12:52.131: User switched to scene '3'
+09:12:56.040: User switched to scene 'Intro'
+09:15:24.208: [obs-websocket] new client connection from [::ffff:127.0.0.169]:43276
+09:16:16.494: User switched to scene 'Nothing'
+09:16:42.300: User switched to scene 'Centralview'
+09:16:45.136: User switched to scene 'Intro'
+09:18:25.566: User switched to scene 'side'
+09:18:26.814: User switched to scene 'Centralview'
+09:18:44.856: User switched to scene 'Centralview'
+09:21:03.893: User switched to scene 'side'
+09:21:17.294: User switched to scene 'Centralview'
+09:24:37.013: User switched to scene 'side'
+09:29:29.265: [obs-websocket] client [::ffff:127.0.0.169]:43276 disconnected
+09:33:08.647: [obs-websocket] new client connection from [::ffff:127.0.0.169]:43326
+09:35:49.014: User switched to scene 'Centralview'
+09:37:50.354: User switched to scene 'Centralview'
+09:37:51.493: User switched to scene 'side'
+09:43:04.807: [obs-websocket] client [::ffff:127.0.0.169]:43326 disconnected
+09:47:38.074: [obs-websocket] new client connection from [::ffff:127.0.0.169]:43370
+09:47:42.495: User switched to scene 'sideview'
+09:47:43.894: User switched to scene 'Centralview'
+09:50:46.733: User switched to scene 'sideview'
+09:50:49.703: User switched to scene 'Outro'
+09:50:53.781: User switched to scene 'Nothing'
+09:53:06.614: User switched to scene 'Centralview'
+09:53:20.549: User switched to scene 'Nothing'
+09:53:34.530: [rtmp stream: 'simple_stream'] User stopped the stream
+09:53:34.530: Output 'simple_stream': stopping
+09:53:34.530: Output 'simple_stream': Total frames output: 81491
+09:53:34.530: Output 'simple_stream': Total drawn frames: 81520
+09:53:34.534: ==== Streaming Stop ================================================
+10:02:36.050: [obs-websocket] client [::ffff:127.0.0.169]:43370 disconnected
+10:06:04.533: Settings changed (stream 1)
+10:06:04.533: ------------------------------------------------
+10:06:11.127: User switched to scene '3'
+10:06:16.094: User switched to scene 'Nothing'
+10:06:39.198: [jim-nvenc: 'simple_h264_stream'] settings:
+10:06:39.198: 	rate_control: CBR
+10:06:39.198: 	bitrate:      6000
+10:06:39.198: 	cqp:          20
+10:06:39.198: 	keyint:       50
+10:06:39.198: 	preset:       hq
+10:06:39.198: 	profile:      high
+10:06:39.198: 	width:        1280
+10:06:39.198: 	height:       720
+10:06:39.198: 	2-pass:       false
+10:06:39.198: 	b-frames:     2
+10:06:39.198: 	lookahead:    false
+10:06:39.198: 	psycho_aq:    true
+10:06:39.198: 
+10:06:39.205: ---------------------------------
+10:06:39.206: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: 3
+10:06:39.206: 
+10:06:39.207: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://localhost:1935/live...
+10:06:39.207: [rtmp stream: 'simple_stream'] Interface: Software Loopback Interface 1 (type 24, 1073 mbps)
+10:06:39.209: [rtmp stream: 'simple_stream'] Connection to rtmp://localhost:1935/live successful
+10:06:39.232: ==== Streaming Start ===============================================
+10:17:12.632: [obs-websocket] new client connection from [::ffff:127.0.0.169]:43476
+10:21:11.151: [obs-websocket] client [::ffff:127.0.0.169]:43476 disconnected
+10:28:35.368: User switched to scene 'Intro'
+10:34:39.244: User switched to scene 'Centralview'
+10:34:51.393: User switched to scene 'side'
+10:34:58.253: User switched to scene 'Centralview'
+10:35:28.125: User switched to scene 'Intro'
+10:35:33.974: User switched to scene '3'
+10:35:49.819: User switched to scene 'Centralview'
+10:35:59.974: User switched to scene 'Intro'
+10:40:45.132: [obs-websocket] new client connection from [::ffff:127.0.0.169]:43598
+10:40:48.742: User switched to scene 'side'
+10:40:58.455: User switched to scene 'Centralview'
+10:45:10.213: User switched to scene 'side'
+10:45:39.774: User switched to scene 'Centralview'
+10:50:40.995: User switched to scene 'sideview'
+10:50:57.071: User added scene 'sideview with mic'
+10:50:57.071: User added source 'camera2' (vlc_source) to scene 'sideview with mic'
+10:50:57.071: User added source 'sideview-cierne' (image_source) to scene 'sideview with mic'
+10:50:57.074: Switched to scene 'sideview with mic'
+10:51:07.972: User switched to scene 'side'
+10:51:29.355: User switched to scene 'sideview with mic'
+10:51:36.983: User added source 'mic' (vlc_source) to scene 'sideview with mic'
+10:52:00.095: User switched to scene 'Centralview'
+10:52:07.353: [obs-websocket] client [::ffff:127.0.0.169]:43598 disconnected
+10:56:09.021: [obs-websocket] new client connection from [::ffff:127.0.0.169]:43632
+11:02:44.733: User switched to scene 'side'
+11:03:03.723: User switched to scene 'side'
+11:03:05.255: User switched to scene 'Centralview'
+11:05:25.894: User switched to scene 'side'
+11:10:18.002: User switched to scene 'Outro'
+11:10:27.037: User switched to scene 'Nothing'
+11:10:51.822: User switched to scene 'side'
+11:20:54.256: User switched to scene 'sideview with mic'
+11:20:56.214: User switched to scene 'Centralview'
+11:24:12.494: User switched to scene 'sideview with mic'
+11:24:32.676: User switched to scene 'Outro'
+11:28:38.255: User switched to scene 'Centralview'
+11:28:39.949: User switched to scene 'Nothing'
+11:28:42.730: User switched to scene 'Outro'
+11:28:45.900: [rtmp stream: 'simple_stream'] User stopped the stream
+11:28:45.900: Output 'simple_stream': stopping
+11:28:45.900: Output 'simple_stream': Total frames output: 123158
+11:28:45.900: Output 'simple_stream': Total drawn frames: 123168
+11:28:45.902: ==== Streaming Stop ================================================
+11:36:46.901: [obs-websocket] new client connection from [::ffff:127.0.0.99]:58766
+11:37:12.070: [obs-websocket] client [::ffff:127.0.0.99]:58766 disconnected
+11:37:12.662: [obs-websocket] client [::ffff:127.0.0.169]:43632 disconnected
+14:44:37.911: [obs-websocket] new client connection from [::ffff:127.0.0.109]:40004
+14:48:46.570: [obs-websocket] client [::ffff:127.0.0.109]:40004 disconnected
